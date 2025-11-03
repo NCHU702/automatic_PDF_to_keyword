@@ -1,0 +1,10 @@
+flask==3.0.0
+flask-cors==4.0.0
+openai==1.54.0
+pymupdf>=1.24,<2.0
+
+# Notes:
+# - Recommended PyMuPDF >= 1.24 for better Python 3.12/3.13 compatibility
+# - Tested with Python 3.13 on Windows
+# - No OCR included; PDFs must contain extractable text (images/scans require external OCR)
+
