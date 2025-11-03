@@ -1,0 +1,2 @@
+# automatic_PDF_to_keyword
+使用者上傳PDF，自動擷取摘要和生成關鍵字
